@@ -1,0 +1,999 @@
+
+
+
+
+
+<!doctype html>
+<html lang="en" manifest="/offline.appcache"> 
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=375">
+
+<link href="https://fonts.googleapis.com/css?family=Trebuchet+MS" rel="stylesheet">
+
+  
+  <title>English & NEDERLANDS 2018 Chrono Bible from Jan 1 to Dec 31</title>
+  <meta name="description" content="Krono ku Link so">
+  <meta name="Yah" content="Krono ku Link so">
+
+  <link rel="stylesheet" href="Krono ku Link so.css?v=3.0">
+
+  <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  
+
+
+ <style>
+
+ 
+ body {
+  margin: 0 0 0 0;
+
+ 
+}
+ 
+ 
+
+
+/* ----------- iPhone 5, 5S, 5C 5SE and 6 ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 667px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+
+/*2 column only; 4em for cell; 5em ok on big screens*/
+.container {
+	display: grid;
+ grid-template-columns: 5.5em auto;
+    
+  
+
+}
+
+
+
+/* If vw is supported, font-size is overwritten.	Read more at: https://www.proy.info/responsive-font-size/*/
+
+
+
+
+
+
+}
+
+
+
+section {
+
+
+}
+
+   
+section:hover {
+color: #0000ff;
+}
+
+
+
+
+
+
+.main {
+background-color: #fff;
+	padding-left: 0.55em;
+height: 2em;	
+}
+
+
+
+
+
+
+.left {
+grid-template-areas: left;		
+	grid-column: 1;
+grid-row: 1;
+	text-align: center;
+
+
+
+}
+
+
+
+.right {
+	border-left: 0.5px solid #f50; 
+grid-template-areas: right;		
+	grid-column: 2;
+grid-row: 1;	
+
+}			
+
+
+	
+	
+
+/*buki na ingles*/
+ .hr {
+background-color: #fff;
+	padding-left: 0.55em;
+border-bottom: 1px solid #77DDE7; /*#add8e6;*/
+	line-height: 1.9em;		
+height: 1.3em;		
+	font-family: 'Trebuchet MS', sans-serif;
+font-size: 150%;
+	font-size: 5.5vw;
+
+}
+
+
+
+
+/*hulandes*/
+
+.hr2 {
+background-color: #fff;
+	padding-left: 0.55em;
+border-bottom: 1px solid #77DDE7;	/*#add8e6; was Turquoise Blue #77DDE7;*/
+	line-height: 1.9em;		
+height: 1.3em;
+	font-family: 'Trebuchet MS', sans-serif;
+	font-size: 150%;	
+font-size: 5.5vw;
+		
+}
+
+
+ 
+ span {
+ font-weight: bold;
+ }
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ a  {
+ text-decoration: none;
+ color:  #0000ff;
+						
+  }
+ 
+
+
+ 
+ 
+ b {
+ color:  #f70;
+						
+  }
+ 
+ 
+
+ 
+ a:hover {
+ color: #f70; 
+	font-size: 125%;
+     
+ 
+ }
+ 
+
+
+ 
+ a:visited  {
+color: #888;
+	
+}
+
+
+
+
+.hr:hover {
+color: #f90;
+}
+
+
+
+   
+.footer {
+	background-color: #fff;
+line-height: 2em;
+
+}
+
+
+
+/*Mateo nr 40
+Marko nr 41
+Lukas nr 42
+Huan nr 43
+
+ <a href="#" target="_blank">Link</a>
+*/
+</style>
+</head>
+
+
+
+
+
+
+<body>
+
+
+<div class="container">
+
+
+<div class="left">
+<main class="main"></main>
+
+
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	
+	<section class="hr"></section><!----jan 1---->
+	<section class="hr"></section>
+	<section class="hr"></section>
+	
+   <section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	
+	 <section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	
+	<section class="hr"></section>
+	
+	<section class="hr"></section>
+	<section class="hr"></section>
+   <section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	 <section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+   <section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+   <section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	 <section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+   <section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	 <section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+   <section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+ <section class="hr"></section>
+ <section class="hr"></section>
+ <section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+  </div>
+	
+  
+
+   
+ 
+  
+  
+
+ <div class="right">
+<main class="main"></main>
+ 
+ 
+ 
+ 
+<section class="hr"><span>Bible Reading in</span></section>
+<section class="hr"><span>Chronological</span></section>
+<section class="hr"><span>Order</span></section>
+<section class="hr"></section>
+<section class="hr"></section>
+
+
+    
+ 
+ 
+<section class="hr"><b>Jan 1:</b>
+<a href="https://wol.jw.org/en/wol/b/r1/lp-e/nwtsty/E/2017/42/1" target="_blank"> Luke</a>,</section>
+ <section class="hr"><a href="https://wol.jw.org/nl/wol/bsync/r18/lp-o/Rbi8/S/1987/r4/lp-s/42/1" target="_blank"> Lucas</a>
+ <a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/42/1" target="_blank">  1;
+ <a href="https://www.jw.org/pap/publikashon/Kantika/kanta-ku-alegria/3nosrefugionossperansanoskonfiansa "target="_blank">kanta<a></section>
+<section class="hr"></section>
+   
+   
+   <section class="hr"><b>Jan 2:</b> 
+   <a href="https://wol.jw.org/en/wol/b/r1/lp-e/nwtsty/E/2017/40/1#v=18" target="_blank"> Matthew</a>,</section>
+   <section class="hr">Mateo
+  <a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/40/1#v=18" target="_blank">1:18-25</a>;</section>
+
+
+
+<section class="hr"><a href="https://wol.jw.org/en/wol/b/r1/lp-e/nwtsty/E/2017/42/2" target="_blank"> Luke</a>,
+Lucas</section>
+<section class="hr"><a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/42/2" target="_blank"> 2:1-20</a>;
+<a href="https://www.jw.org/pap/publikashon/Kantika/kanta-ku-alegria/47-resa-na-yehova-tur-dia" target="_blank">kanta</a>
+</section>
+
+
+<section class="hr"><a href="https://wol.jw.org/en/wol/b/r1/lp-e/nwtsty/E/2017/40/1" target="_blank"> Matthew</a>,
+Mateo</section>
+<section class="hr"><a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/40/1" target="_blank"> 1:1-17</a>;
+<a href="https://www.jw.org/pap/publikashon/Kantika/kanta-ku-alegria/18-gratitut-pa-e-reskate" target="_blank">kanta</a>
+</section>
+
+
+<section class="hr"><a href="https://wol.jw.org/en/wol/b/r1/lp-e/nwtsty/E/2017/42/3#v=23" target="_blank"> Luke</a>,
+Lucas</section>
+<section class="hr"><a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/42/3#v=23" target="_blank"> 3:23-..</a>;
+<a href="https://www.jw.org/pap/publikashon/Kantika/kanta-ku-alegria/14-alab%C3%A1-e-rei-nobo-di-tera" target="_blank">kanta</a>
+</section>
+
+
+<section class="hr"><a href="https://wol.jw.org/en/wol/b/r1/lp-e/nwtsty/E/2017/42/2#v=21" target="_blank">Luke</a>,</section>
+<section class="hr">Lucas
+<a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/42/2#v=21"target="_blank"> 2:21-40</a></section>
+
+
+   <section class="hr"></section>
+
+<section class="hr"><b>Jan 3:</b><a href="https://wol.jw.org/en/wol/b/r1/lp-e/nwtsty/E/2017/40/2" target="_blank"> Matthew</a>,</section>
+ <section class="hr">Mateo
+<a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/40/2"target="_blank"> 2</a>;</section>
+
+
+<section class="hr"><a href="https://wol.jw.org/nl/wol/bsync/r18/lp-o/nwtsty/E/2017/r1/lp-e/42/2#v=41" target="_blank"> Luke</a>,</section>
+<section class="hr">Lucas	
+ <a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/42/2#v=41" target="_blank"> 2:41-52</a>;</section>
+ 
+  
+<section class="hr"><a href="https://wol.jw.org/nl/wol/bsync/r18/lp-o/nwtsty/E/2017/r1/lp-e/41/1" target="_blank"> Mark</a>,</section>
+<section class="hr">Marcos
+<a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/41/1" target="_blank"> 1:1-8</a>;</section>
+
+
+
+<section class="hr"><a href="https://wol.jw.org/nl/wol/bsync/r18/lp-o/nwtsty/E/2017/r1/lp-e/40/3" target="_blank">	Matthew</a>,</section>
+ <section class="hr">Mateo
+<a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/40/3" target="_blank">  3:1-12</a>;</section>
+
+
+<section class="hr"><a href="https://wol.jw.org/nl/wol/bsync/r18/lp-o/nwtsty/E/2017/r1/lp-e/42/3" target="_blank"> Luke</a>,</section>
+<section class="hr">Lucas
+<a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/42/3" target="_blank"> 3:1-20</a>;</section>
+
+
+<section class="hr"><a href="https://wol.jw.org/nl/wol/bsync/r18/lp-o/nwtsty/E/2017/r1/lp-e/43/1" target="_blank"> John</a>,</section>
+<section class="hr">Juan
+<a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/43/1"target="_blank"> 1:1-18</a></section>
+ 
+ 
+ <section class="hr"></section>
+ 
+ 
+
+
+<section class="hr"><b>Jan 4:</b> 	
+<a href="https://wol.jw.org/nl/wol/bsync/r18/lp-o/nwtsty/E/2017/r1/lp-e/43/1#v=19" target="_blank"> John</a></section>
+<section class="hr"><a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/43/1#v=19" target="_blank"> 1:19-28</a>;</section>
+ 
+ 
+<section class="hr">Mark
+<a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/41/1#v=9" target="_blank"> 1:9-11</a>;</section>
+ 
+ 
+ <section class="hr">Matthew
+ <a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/40/3#v=13" target="_blank">  3:13-17</a>;</section>
+ 
+ <section class="hr">Luke
+ <a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/42/3#v=21" target="_blank"> 3:21-22</a>;</section>
+ 
+ <section class="hr">John
+ <a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/43/1#v=29"target="_blank"> 1:29-34</a>;</section>
+ 
+ <section class="hr">Mark
+ <a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/41/1#v=12" target="_blank"> 1:12-13</a>;</section>
+ 
+ <section class="hr">Matthew
+ <a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/40/4" target="_blank">  4:1-11</a>;</section>
+ 
+ <section class="hr">Luke
+ <a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/42/4" target="_blank"> 4:1-13</a>;</section>
+ 
+ <section class="hr">John
+ <a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/43/1#v=35"target="_blank"> 1:35-51</a>;</section>
+ 
+ <section class="hr">Mark
+ <a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/41/1#v=16" target="_blank"> 1:16-20</a>;</section>
+ 
+  <section class="hr">Matthew
+  <a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/40/4#v=18" target="_blank">  4:18-22</a>;</section>
+ 
+ <section class="hr">Luke
+ <a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/42/5" target="_blank"> 5:1-11</a></section>
+
+ <section class="hr"></section>
+
+ 
+ 
+
+ <section class="hr"><b>Jan 5:</b> John
+<a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/43/2" target="_blank"> 2</a>,</section>
+ <section class="hr">John
+<a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/43/3" target="_blank"> 3</a>,</section>
+<section class="hr">John
+<a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/43/4" target="_blank"> 4:1-26</a></section>
+<section class="hr"></section>
+
+
+ <section class="hr"><b>Jan 6:</b> John
+<a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/43/4#v=27" target="_blank"> 4:27-42</a></section>
+ <section class="hr">Mark
+ <a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/41/1#v=14" target="_blank"> 1:14, 15</a>;</section>
+<section class="hr">Matthew
+<a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/40/4#v=12" target="_blank">  4:12-17</a>;</section>
+<section class="hr2">Luke
+<a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/42/4#v=14" target="_blank"> 4:14, 15</a>;</section>
+ <section class="hr">John
+ <a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/43/4#v=43"target="_blank"> 4:43-46a</a>;</section>
+
+<section class="hr">Luke
+<a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/42/4#v=16" target="_blank"> 4:16-30</a>;</section>
+<section class="hr">Mark
+<a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/41/1#v=21" target="_blank"> 1:21-28</a>;</section>
+<section class="hr">Luke
+<a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/42/4#v=31" target="_blank"> 4:31-37</a>;</section>
+<section class="hr">Mark
+<a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/41/1#v=29" target="_blank"> 1:29-39</a>;</section>
+<section class="hr">Matthew
+<a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/40/8#v=14" target="_blank">  8:14-17</a>;</section>
+<section class="hr">Luke
+<a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/42/4#v=38" target="_blank"> 4:38-44</a>;</section>
+<section class="hr">Mark
+<a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/41/1#v=40" target="_blank"> 1:40-45</a>;</section>
+<section class="hr">Matthew
+<a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/40/8" target="_blank">  8:1-4</a>;</section>
+<section class="hr">Luke
+<a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/42/5#v=12" target="_blank"> 5:12-16</a></section>
+
+<section class="hr"></section>
+
+
+<section class="hr"><b>Jan 7:</b> Mark,</section>
+<section class="hr">Marco
+<a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/41/2" target="_blank"> 2:1-12</a>;</section>
+
+	
+	
+	<section class="hr">Matthew,</section>
+	<section class="hr">Mateo
+<a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/40/9" target="_blank">  9:1-8</a>;</section>
+	
+	
+<section class="hr">Luke,</section>
+<section class="hr">Lucas
+<a href="https://wol.jw.org/nl/wol/b/r18/lp-o/nwt/O/2017/42/5#v=17" target="_blank"> 5:17-26</a></section>
+	
+
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+   <section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	
+	
+	
+	 <section class="hr">Genesis <a href="http://kronobeibel.singlehtml.com/#gen1" target _blank>1,</a><!--ta korekto-->
+	  <a href="http://kronobeibel.singlehtml.com/#gen2" target _blank>2,</a><!--ta korekto-->
+	  <a href="http://kronobeibel.singlehtml.com/#gen3" target _blank>3</a></section><!--ta korekto-->
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+   <section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	 <section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+   <section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+
+<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+   <section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+	<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+<section class="hr"></section>
+
+<section class="hr"><a href="http://result.dabblet.com/gist/7e563c5146df3f81a1a3c12f3afc3e6e/2ae9bbd1e2f06ce3a5d4b847d7203dfff4e6d039http://result.dabblet.com/gist/7e563c5146df3f81a1a3c12f3afc3e6e/2ae9bbd1e2f06ce3a5d4b847d7203dfff4e6d039http://result.dabblet.com/gist/7e563c5146df3f81a1a3c12f3afc3e6e/2ae9bbd1e2f06ce3a5d4b847d7203dfff4e6d039">Mi Schrift Krono Beibel</a></section>
+<section class="hr"><a href="https://gist.github.com/womantoo/13a1da2166808621393e1827495c8cf4">Schrift Krono Beibel</a></section>
+</div>
+
+
+
+
+
+
+
+
+
+<section class="footer">&nbsp;&nbsp;</section>
+  </div>
+	 </div>	
+ 
+
+
+
+
+ 
+
+
+
